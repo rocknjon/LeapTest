@@ -1,0 +1,3 @@
+El algoritmo desarrollado en la pregunta 1 devuelve "true" en caso el número ingresado "n" sea primo, de lo contrario devolverá "false".
+Para ello realiza una serie de divisiones empezando por el 2, si es que alguna de estas divisiones termina siendo exacta, es decir, su módulo es cero, el número es divisible entre algún número y por lo tanto no puede ser primo.
+En cambio si el número no es divisible y ya se llego a su raíz redondeada a entero, esto quiere decir que el número no va a ser divisible por ningún otro número, por lo tanto, es primo.
