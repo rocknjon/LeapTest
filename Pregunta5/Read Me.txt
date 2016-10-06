@@ -1,0 +1,3 @@
+El proyecto esta en Unity 5, contiene el Animator Controller con los diferentes estados de las animaciones Idel, Walking, Running, Jumping y Shooting, con sus respectivas transiciones.
+
+El personaje se mueve con las flechas, salta con espacio, corre manteniendo presionada la tecla shift izquierdo y dispara con Z.
